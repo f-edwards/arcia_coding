@@ -1,0 +1,228 @@
+year,state,school,capacity_boarding,capacity_day,enrollment,attendance_boarding,attendance_day
+1887,Alaska,Thlinkit Academy,75,0,25,25,0
+1887,Alaska,Sitka,75,0,91,74,0
+1887,Arizona,Colorado River Boarding,50,0,69,67,0
+1887,Arizona,Fort Yuma: Boarding,200,0,122,70,0
+1887,Arizona,Moqui Boarding ,50,0,NaN,NaN,0
+1887,Arizona,Pima Boarding,130,0,164,118,0
+1887,Arizona ,Papago Day ,0,30,50,0,25
+1887,Arizona,San Carlos Boarding,50,0,50,46,0
+1887,California,Hoopa Valley Day,0,45,53,0,28
+1887,California,Middletown Training ,20,0,18,14,0
+1887,California,Agua Caliente ,0,50,28,0,21
+1887,California,Agua Caliente,0,20,14,0,7
+1887,California,Coahuila Day ,0,40,33,0,22
+1887,California,La Jolla Day ,0,50,55,0,34
+1887,California,Mesa Grande Day ,0,20,21,0,13
+1887,California,Pauma Day,0,30,23,0,11
+1887,California,Protero Day,0,20,17,0,12
+1887,California,Rincon Day,0,40,32,0,20
+1887,California,San Bernardino Day,0,30,22,0,9
+1887,California,San Jacinto Day,0,35,35,0,17
+1887,California,Santa Yaabel Day,0,30,24,0,17
+1887,California,Temecula Day,0,30,24,0,17
+1887,California,Headquaters Day,0,40,44,0,31
+1887,California,Lowerquaters Day,0,40,30,0,26
+1887,California,San Diego Industrial Training,75,0,68,54,0
+1887,Colorado,Agency Day School (Southern Ute),0,25,20,0,10
+1887,Colorado,Good Shepard Boarding,50,0,50,48,0
+1887,Colorado,Grand Junction Industrial School,75,0,33,21,0
+1887,Dakota,Boy's Boarding,50,0,63,58,0
+1887,Dakota,Oahe Industrial,50,0,42,35,0
+1887,Dakota,St.John's Boarding,40,0,40,40,0
+1887,Dakota,Cheyenne Rive Agency: 1,0,25,37,0,10
+1887,Dakota,Cheyenne Rive Agency: 2,0,25,28,0,14
+1887,Dakota,Cheyenne Rive Agency: 3,0,25,14,0,13
+1887,Dakota,Cheyenne Rive Agency: 4,0,20,15,0,12
+1887,Dakota,Cheyenne Rive Agency: 5,0,25,20,0,17
+1887,Dakota,Cheyenne Rive Agency: 6,0,25,18,0,12
+1887,Dakota,Cheyenne Rive Agency: 8,0,25,27,0,19
+1887,Dakota,Crow Creek Boarding,60,0,71,54,0
+1887,Dakota,Lower Brule Boarding,40,0,35,28,0
+1887,Dakota,White River Day,0,40,35,0,19
+1887,Dakota,Boy's  Boarding,23,0,33,28,0
+1887,Dakota,Industrial Boarding,70,0,88,81,0
+1887,Dakota,St. Mary's Boarding at Turtle Mountain,125,0,120,83,0
+1887,Dakota,Boy's Turtle Mountain Day,0,20,33,0,19
+1887,Dakota,St John's day at Turtle Mountain,0,90,115,0,67
+1887,Dakota,Turtle Mountain Day,0,20,19,0,12
+1887,Dakota,For Berthold Boarding,25,0,27,23,0
+1887,Dakota,Fort Stevenson,150,0,86,67,0
+1887,Dakota,Pine Ridge Boarding,200,0,170,142,0
+1887,Dakota,Pine Ridge Agency:1,0,40,55,0,31
+1887,Dakota,Pine Ridge Agency:2,0,40,65,0,41
+1887,Dakota,Pine Ridge Agency:3,0,40,60,0,36
+1887,Dakota,Pine Ridge Agency:4,0,40,58,0,44
+1887,Dakota,Pine Ridge Agency:5,0,40,68,0,37
+1887,Dakota,Pine Ridge Agency:6,0,40,64,0,50
+1887,Dakota,Pine Ridge Agency:7,0,40,40,0,34
+1887,Dakota,Pine Ridge Agency:8,0,40,67,0,32
+1887,Dakota,Agency Day (Rosebud Agency),0,30,33,0,21
+1887,Dakota,Big Oak Creek Day,0,30,23,0,17
+1887,Dakota,Black pipe Day,0,30,40,0,33
+1887,Dakota,Corn Creek Day,0,24,27,0,20
+1887,Dakota,Cut Meat Creek Day,0,30,33,0,27
+1887,Dakota,Little White River Day,0,30,34,0,29
+1887,Dakota,Little Oak Creek Day,0,30,28,0,24
+1887,Dakota,Oak Creek Day,0,30,11,0,10
+1887,Dakota,Pass Creek Day,0,30,31,0,24
+1887,Dakota,Pine Creek Day,0,30,25,0,18
+1887,Dakota,Red Leaf Camp Day,0,30,34,0,24
+1887,Dakota,Rind Thunder Camp Day,0,34,37,0,28
+1887,Dakota,Scabby Creek Day,0,30,23,0,15
+1887,Dakota,White Thunder Creek Day,0,30,36,0,29
+1887,Dakota,Sisseton Industrial ,130,0,129,91,0
+1887,Dakota,Goodwill Mission Boarding,65,0,73,57,0
+1887,Dakota,Agency Boarding (Standing Rock Agency),100,0,137,117,0
+1887,Dakota,Agricultural Boarding,60,0,83,66,0
+1887,Dakota,Cannon Bail Day,0,60,80,0,60
+1887,Dakota,Grand River Day,0,60,78,0,60
+1887,Dakota,Standing Rock Agency: 1,0,30,36,0,24
+1887,Dakota,Standing Rock Agency: 2,0,30,39,0,32
+1887,Dakota,Standing Rock Agency: 3,0,30,36,0,13
+1887,Dakota,Yankton Boarding,75,0,100,80,0
+1887,Dakota,St. Paul's Boarding,35,0,37,24,0
+1887,Dakota,Yankton City: Dakota Industrial,75,0,53,41,0
+1887,Florida,Saint Augustine: Apache Day,0,50,49,0,34
+1887,Idaho,Fort Hall Boarding,100,0,69,53,0
+1887,Idaho,Lemhi Boarding,25,0,35,25,0
+1887,Idaho,Lapwai Boarding,100,0,125,55,0
+1887,Indiana,Wabash: White's Manual Labor Institute,80,0,71,63,0
+1887,Indiana,Arapoho Boarding ,100,0,96,74,0
+1887,Indian Territory,Cheyenne Boarding,100,0,118,97,0
+1887,Indian Territory,Mennonite Boarding (Agency),50,0,55,46,0
+1887,Indian Territory,Mennonite Boarding (Cantonment),100,0,78,67,0
+1887,Indian Territory,Kioowa Boarding,100,0,125,84,0
+1887,Indian Territory,Wichita Boarding,90,0,111,81,0
+1887,Indian Territory,Kaw Boarding,70,0,66,51,0
+1887,Indian Territory,Osage Boarding,150,0,148,103,0
+1887,Indian Territory,Pawneee Boarding,70,0,113,75,0
+1887,Indian Territory,Ponca Boarding,100,0,95,78,0
+1887,Indian Territory,Otoe Boarding,50,0,65,53,0
+1887,Indian Territory,Quapay Boarding,30,0,60,43,0
+1887,Indian Territory,"Seneca, Shawnee and Wyandotte Boarding",85,0,100,87,0
+1887,Indian Territory,Miami Day,0,30,18,0,13
+1887,Indian Territory,Modoc Day,0,32,20,0,15
+1887,Indian Territory,Peoria Day,0,56,12,0,7
+1887,Indian Territory,Absentee Shawnee Boarding,80,0,94,68,0
+1887,Indian Territory,Sac and Fox Boarding,50,0,57,34,0
+1887,Indian Territory,Chilocco: Chilocco Training,180,0,197,166,0
+1887,Iowa,Houghton: White's Manual Labor Institute,60,0,68,47,0
+1887,Kansas,Kickapoo Boarding,25,0,42,25,0
+1887,Kansas,Pottawatomie and Great Nemaha Agency,30,0,47,30,0
+1887,Kansas,Sac Fox and Iowa Boarding,50,0,51,30,0
+1887,Kansas,Halstead: Mennonite Mission Boarding,25,0,22,16,0
+1887,Kansas,Lawrence: Haskell Institute,350,0,339,273,0
+1887,Kansas,Neosho County: St. Ann's Academy,25,0,22,21,0
+1887,Kansas,Baraga Day,0,50,47,0,27
+1887,Kansas,Iriquois Point Day,0,50,27,0,13
+1887,Kansas,Hannahville Day,0,18,19,0,9
+1887,Kansas,L'Anse Day,0,40,45,0,18
+1887,Kansas,Longwood Day,0,20,16,0,9
+1887,Kansas,Middle Village Day,0,35,23,0,15
+1887,Kansas,Munissing Day,0,40,22,0,9
+1887,Kansas,Sugar Island Day,0,40,22,0,8
+1887,Minnesota,Agency Boarding (White Earth),110,0,110,62,0
+1887,Minnesota,Leech Lake Boarding,70,0,55,39,0
+1887,Minnesota,Red Lake Boarding,70,0,95,49,0
+1887,Minnesota,Rice River Day,0,60,35,0,10
+1887,Minnesota,St. Benedict's Orphanage,25,0,27,25,0
+1887,Minnesota,Avoca: St. Francis Xavier's,50,0,50,50,0
+1887,Minnesota,Clontarf: St.Pail's Industrial ,108,0,108,100,0
+1887,Minnesota,Collegeville: St.John's Institute,100,0,102,89,0
+1887,Minnesota,Graceville: Convent of our lady,25,0,16,13,0
+1887,Minnesota,Saint Joseph: St. Benedict's Academy,125,0,100,84,0
+1887,Montana,Blackfeet Boarding,26,0,35,24,0
+1887,Montana,Crow Boarding,50,0,53,47,0
+1887,Montana,Montana Industrial,50,0,29,21,0
+1887,Montana,St. Ignatius Boarding,200,0,186,170,0
+1887,Montana,Fort Belknap Day,0,50,50,0,32
+1887,Montana,Poplar Creek Boarding,100,0,203,133,0
+1887,Montana,St. Labre's Mission,50,0,45,36,0
+1887,Montana,St. Peter's Mission,75,0,75,61,0
+1887,Nebreska,Omaha Boarding,60,0,98,62,0
+1887,Nebreska,Omaha Mission,50,0,51,41,0
+1887,Nebreska,Winnebago Boarding,80,0,65,30,0
+1887,Nebreska,Santee Boarding,45,0,90,78,0
+1887,Nebreska,Hope Boarding,30,0,84,30,0
+1887,Nebreska,Santee Normal Training,150,0,141,108,0
+1887,Nebreska,Flandrean Day,0,50,38,0,23
+1887,Nebreska,Ponca Day,0,34,16,0,7
+1887,Nebreska,Genoa: Genoa Training,175,0,215,171,0
+1887,Nevada,Pyramid Lake Boarding,48,0,84,57,0
+1887,Nevada,Walker River Day,0,35,60,0,38
+1887,Nevada,Wester Shoshone Day,0,40,40,0,34
+1887,New Mexico,Mescalero Boarding,30,0,50,34,0
+1887,New Mexico,Three Rivers Day,0,12,12,0,5
+1887,New Mexico,Navajo Boarding,70,0,49,43,0
+1887,New Mexico,Albuquerque Boarding,60,0,43,32,0
+1887,New Mexico,Albuquerque Industrial,175,0,168,140,0
+1887,New Mexico,Bernalillo Girls' Boarding,30,0,34,30,0
+1887,New Mexico,Santa Fe Boarding,100,0,68,46,0
+1887,New Mexico,"University of New Mexico, Santa Fe",50,0,43,24,0
+1887,New Mexico,Acoma Day,0,10,11,0,9
+,,Acomita Day,0,30,50,0,29
+1887,New Mexico,Isleta Day #1,0,40,59,0,32
+1887,New Mexico,Isleta Day #2,0,25,30,0,13
+1887,New Mexico,Jemez Day #1,0,40,60,0,21
+1887,New Mexico,Jemez Day #2,0,25,45,0,21
+1887,New Mexico,Laguana Day #1,0,50,42,0,33
+1887,New Mexico,Laguana Day #2,0,25,66,0,23
+1887,New Mexico,San Felipe Day,0,25,30,0,21
+1887,New Mexico,San Juan Day,0,40,40,0,30
+1887,New Mexico,Santo Domingo,0,40,46,0,40
+1887,New Mexico,Toas Day,0,50,43,0,24
+1887,New Mexico,Zuni Day,0,44,80,0,42
+1887,North Carolina,"Cherokee Training, Swain County",40,0,41,40,0
+1887,North Carolina,Big Cove Day,0,40,46,0,32
+1887,North Carolina,Bird Town Day,0,24,35,0,21
+1887,North Carolina,Cherokee Day,0,40,37,0,25
+1887,North Carolina,Macedonia Day,0,45,45,0,28
+1887,North Carolina,Robbinsville Day,0,35,25,0,17
+1887,Oregon,Grand Ronde Boarding,45,0,60,55,0
+1887,Oregon,Klanmath Boarding,95,0,95,85,0
+1887,Oregon,Yainax Boarding,80,0,83,70,0
+1887,Oregon,Siletz boarding,60,0,73,67,0
+1887,Oregon,Umatilla Boarding,75,0,83,59,0
+1887,Oregon,Warm Springs Boarding,50,0,69,56,0
+1887,Oregon,Sinemasho Boarding,80,0,38,29,0
+1887,Oregon,Chemewa: Salmen Training,250,0,205,185,0
+1887,Oregon,Carlisle Training,500,0,617,547,0
+1887,Pennsylvania ,Martinsburgh: Juniata Institute,80,0,67,63,0
+1887,Pennsylvania ,Philedelphia: Lincoln Institution,200,0,218,200,0
+1887,Pennsylvania ,Uintah Valley Boarding,25,0,33,15,0
+1887,Utah,Hampton: Normal Agriculture Institute,150,0,160,116,0
+1887,Virginia,Colville Boys' Boarding,40,0,33,25,0
+1887,Washington Territory,Colville Girls' Boarding,50,0,54,43,0
+1887,Washington Territory,Coeur d'Alene Boys' Boarding,60,0,51,44,0
+1887,Washington Territory,Coeur d'Alene Girls' Boarding,60,0,44,41,0
+1887,Washington Territory,Neah Bay Boarding,50,0,58,53,0
+1887,Washington Territory,Quilehute Day,0,50,57,0,44
+1887,Washington Territory,Chealis Boarding,50,0,49,42,0
+1887,Washington Territory,Puyallup Boarding,75,0,87,82,0
+1887,Washington Territory,S'Kokomish Boarding,40,0,50,42,0
+1887,Washington Territory,Jamestown Day,0,30,27,0,16
+1887,Washington Territory,Quinaielt Boarding,30,0,23,21,0
+1887,Washington Territory,Queet's Village Day,0,40,19,0,19
+1887,Washington Territory,Tulalip Boarding,125,0,128,108,0
+1887,Washington Territory,Yakima Boarding,150,0,124,99,0
+1887,Washington Territory,Menomonee Boarding,85,0,110,81,0
+1887,Wisconsin,St.Joseph's Boarding,130,0,156,127,0
+1887,Wisconsin,Cornelins Day,0,36,21,0,8
+1887,Wisconsin,Hobart Day,0,120,120,0,46
+1887,Wisconsin,Onedia East Day,0,35,24,0,13
+1887,Wisconsin,Onedia West Day No.1,0,55,85,0,19
+1887,Wisconsin,Onedia West Day No. 2,0,30,30,0,13
+1887,Wisconsin,Onedia West Day No. 3,0,40,22,0,8
+1887,Wisconsin,Stockbridge Day,0,30,28,0,8
+1887,Wisconsin,Bad River Day,0,50,54,0,25
+1887,Wisconsin,Fond du lac Day,0,35,30,0,26
+1887,Wisconsin,Grand Portage Day,0,20,20,0,9
+1887,Wisconsin,Lac Court Oreilles #1,0,60,77,0,47
+1887,Wisconsin,Lac Court Oreilles #2,0,24,41,0,9
+1887,Wisconsin,Lac du Flambeau Day,0,25,41,0,13
+1887,Wisconsin, Pah-quay-ah-wong Day,0,25,38,0,13
+1887,Wisconsin,Vermillion Lake Day,0,40,67,0,30
+1887,Wisconsin,Bayfield Boarding,100,0,100,51,0
+1887,Wisconsin,Milwaukee: Good Sheperd Industrial,75,0,75,72,0
+1887,Wyoming,Wind River Boarding,80,0,122,81,0

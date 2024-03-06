@@ -1,0 +1,546 @@
+year,state,school,capacity_boarding,capacity_day,enrollment,attendance_boarding,attendance_day
+1887,AK,Fort Wrangel: Thlinkit Academy,75,,25,25,
+1887,AK,Sitka: Industrial Training School,75,,91,74,
+1887,AZ,Colorado River Boarding,50,,69,67,
+1887,AZ,Fort Tuma: Boarding,200,,122,70,
+1887,AZ,Keam's Cañon: Moqui Boarding,50,,,,
+1887,AZ,Pima Boarding,120,,164,118,
+1887,AZ,Papago Day,,30,50,,25
+1887,AZ,San Carlos Boarding,50,,50,46,
+1887,CA,Hoopa Valley Day,,45,53,,28
+1887,CA,Middletown: Training School,20,,18,14,
+1887,CA,"Agua Caliente, No 1 Day",,50,28,,21
+1887,CA,"Agua Caliente, No 2 Day",,20,14,,7
+1887,CA,Coahuila Day,,40,33,,22
+1887,CA,La Jolla Day,,50,55,,34
+1887,CA,Mesa Grande Day,,20,21,,13
+1887,CA,Pauma Day,,30,23,,11
+1887,CA,Potrero DAy,,20,17,,12
+1887,CA,Ricon Day,,40,32,,20
+1887,CA,San Bernardino Day,,30,22,,9
+1887,CA,San Jacinto Day,,35,35,,17
+1887,CA,Santa Ysabel Day,,30,24,,17
+1887,CA,Temecula Day,,30,24,,17
+1887,CA,Headquarters Day,,40,44,,
+1887,CA,Lowerquartes Day,,40,30,,
+1887,CA,San Diego: Industrial Training,75,,68,54,
+1887,CO,Southern Ute Agency Day,,25,20,,10
+1887,CO,Denver: Good Shepherd Boarding,50,,50,48,
+1887,CO,Grand Junction: Industrial,75,,33,21,
+1887,Dakota,Boys' Boarding,50,,63,,
+1887,Dakota,Oabe Industrial,50,,42,,
+1887,Dakota,St. John's Boarding,40,,40,,
+1887,Dakota,No 1 Day,,25,37,,
+1887,Dakota,No 2 Day,,25,28,,
+1887,Dakota,No 3 Day,,25,14,,
+1887,Dakota,No 4 Day,,20,15,,
+1887,Dakota,No 5 Day,,25,20,,
+1887,Dakota,No 6 Day,,25,18,,
+1887,Dakota,No 8 Day,,25,27,,
+1887,Dakota,Crow Creek Boarding,60,,71,34,
+1887,Dakota,Lower Brulé Boarding,40,,35,28,
+1887,Dakota,White River Day,,40,35,,19
+1887,Dakota,Boys' Boarding,23,,33,28,
+1887,Dakota,Industrial Boarding,70,,88,81,
+1887,Dakota,St. Mary's Boarding (Turtle Mountain),125,,120,83,
+1887,Dakota,Boys' turtle Mountain Day,,20,33,,19
+1887,Dakota,St. John's Day (Turtle Mountain),,90,115,,67
+1887,Dakota,Turtle Mountain Day,,20,19,,12
+1887,Dakota,Fort Berthold Boarding,25,,27,23,
+1887,Dakota,Fort Stevenson: Industrial,150,,86,67,
+1887,Dakota,Pine Ridge Boarding,200,,170,142,
+1887,Dakota,No 1 Day,,40,55,,31
+1887,Dakota,No 2 Day,,40,65,,41
+1887,Dakota,No 3 Day,,40,60,,36
+1887,Dakota,No 4 Day,,40,58,,44
+1887,Dakota,No 5 Day,,40,68,,37
+1887,Dakota,No 6 Day,,40,64,,50
+1887,Dakota,No 7 Day,,40,40,,34
+1887,Dakota,No 8 Day,,40,67,,32
+1887,Dakota,Rosebud Agency Day,,30,33,,21
+1887,Dakota,Big Oak Creek Day,,30,23,,17
+1887,Dakota,black Pipe Day,,30,40,,33
+1887,Dakota,Corn Creek Day,,24,27,,20
+1887,Dakota,Cut Meat Creek Day,,30,33,,27
+1887,Dakota,Little White River Day,,30,34,,20
+1887,Dakota,Little Oak Creek Day,,30,28,,24
+1887,Dakota,Oak Creek Day,,30,11,,10
+1887,Dakota,Pass Creek Day,,30,31,,24
+1887,Dakota,Pine Creek Day,,30,25,,18
+1887,Dakota,Red Leaf Camp Day,,30,34,,24
+1887,Dakota,Ring Thunder Camp Day,,34,37,,28
+1887,Dakota,Scabby Creek Day,,30,23,,15
+1887,Dakota,White Thunder Creek Day,,30,36,,20
+1887,Dakota,Sisseton Industrial,130,,129,91,
+1887,Dakota,Goodwill Mission Boarding,63,,73,57,
+1887,Dakota,Standing Rock Agency Boarding,100,,137,117,
+1887,Dakota,Agricultural boarding,60,,83,66,
+1887,Dakota,Cannon Bail Day,,60,80,,60
+1887,Dakota,Grand River Day,,60,78,,60
+1887,Dakota,No 1 Day,,30,36,,24
+1887,Dakota,No 2 Day,,30,39,,32
+1887,Dakota,No 3 Day,,30,36,,13
+1887,Dakota,Yankton Boarding,75,,100,80,
+1887,Dakota,St. Paul's Boarding,36,,37,24,
+1887,Dakota,Yankton City: Dakota Industrial,75,,53,41,
+1887,FL,Saint Angustine: Apache Day,,50,49,,34
+1887,ID,Fort Hall Boarding,100,,69,53,
+1887,ID,Lemhi boarding,25,,35,25,
+1887,ID,Lapwai Boarding,100,,125,55,
+1887,IN,Wabash: White's Manual Labor Institute,80,,71,63,
+1887,Indian Territory,Arapaho boarding,100,,96,74,
+1887,Indian Territory,Cheyenne Boarding,100,,118,97,
+1887,Indian Territory,Mennonite Boarding (agency),50,,55,46,
+1887,Indian Territory,Mennonite Boarding (Cantonment),100,,78,67,
+1887,Indian Territory,Kiowa Boarding,100,,125,84,
+1887,Indian Territory,Wichita Boarding,90,,111,81,
+1887,Indian Territory,Kaw Boarding,70,,66,51,
+1887,Indian Territory,Osage Boarding,150,,148,103,
+1887,Indian Territory,Pawnee Boarding,70,,113,75,
+1887,Indian Territory,Ponca Boarding,100,,95,78,
+1887,Indian Territory,Otoe Boarding,50,,65,53,
+1887,Indian Territory,Quapaw Boarding,30,,60,43,
+1887,Indian Territory,"Seneca, Shawnee and Wyandotte Boarding",85,,100,87,
+1887,Indian Territory,Miami Day,,30,18,,13
+1887,Indian Territory,Modoc Day,,32,20,,15
+1887,Indian Territory,Peoria Day,,56,12,,7
+1887,Indian Territory,Absentee Shawnee Boarding,80,,94,68,
+1887,Indian Territory,Sac and Fox Boarding,50,,57,34,
+1887,Indian Territory,Chilocco: Chilocco Training,180,,197,166,
+1887,IA,Houghton: White's Manual Labor Institute,60,,68,47,
+1887,KS,Kickapoo Boarding,25,,42,25,
+1887,KS,Pottawatomie Boarding,30,,47,30,
+1887,KS,Sac and Fox and Iowa Boarding,50,,51,30,
+1887,KS,Halstead: Mennonite Mission Boarding,25,,22,16,
+1887,KS,Lawrence: Haskell Institute,350,,339,273,
+1887,KS,Neosho County: St. Ann's Academy,25,,22,21,
+1887,MI,Baraga Day,,50,47,,27
+1887,MI,Iroquois Point Day,,50,27,,13
+1887,MI,Hannahville Day,,18,19,,9
+1887,MI,L'Anse Day,,40,45,,18
+1887,MI,Longwood Day,,20,16,,9
+1887,MI,Middle Village Day,,35,23,,15
+1887,MI,Munissing Day,,40,22,,9
+1887,MI,Sugar Island Day,,40,22,,8
+1887,MN,White Earth Agency Boarding,110,,110,62,
+1887,MN,Leech Lake Boarding,70,,55,39,
+1887,MN,Red Lake Boarding,70,,95,49,
+1887,MN,Rice River Day,,60,35,,10
+1887,MN,St. Benedict's Orphan ,25,,27,25,
+1887,MN,Avoca: St. Francis Xavier's Academy,50,,50,50,
+1887,MN,Clontarf: St. Paul's Industrial,108,,108,100,
+1887,MN,Collegeville: St. John's Industrial,100,,102,89,
+1887,MN,Graceville: Convent of Our Lady,25,,16,13,
+1887,MN,Saint Joseph: St. Benedict's Academy,125,,100,84,
+1887,MT,Blackfeet Boarding,26,,35,24,
+1887,MT,Crow boarding,50,,53,47,
+1887,MT,Montana Industrial,50,,29,21,
+1887,MT,St. Ignatius Boarding,200,,186,170,
+1887,MT,Fort Belknap Day,,50,50,,32
+1887,MT,Poplar Creek Boarding,100,,203,133,
+1887,MT,St. Labre's Mission,50,,45,36,
+1887,MT,St. Peter's Mission,75,,75,61,
+1887,NE,Omaha Boarding,60,,98,62,
+1887,NE,Omaha Mission,50,,51,41,
+1887,NE,Winnebago Boarding,80,,65,30,
+1887,NE,Santee Boarding,45,,90,78,
+1887,NE,Hope Boarding,30,,34,30,
+1887,NE,Santee Normal Training,150,,141,108,
+1887,NE,Flandrean Day,,50,38,,23
+1887,NE,ponca Day,,34,16,,7
+1887,NE,Genoa: Genoa Training,175,,215,171,
+1887,NV,Pyramid Lake Boarding,48,,84,57,
+1887,NV,Walker River Day,,35,60,,38
+1887,NV,Western Shoshone Day,,40,40,,34
+1887,NM,Mescalero Boarding,30,,50,34,
+1887,NM,Three Rivers Day,,12,12,,5
+1887,NM,Navajo Boarding,70,,49,43,
+1887,NM,Albuquerque Boarding,60,,43,32,
+1887,NM,Albuquerque Industrial,175,,168,140,
+1887,NM,Bernalillo Girl's Boarding,30,,34,30,
+1887,NM,Santa Fe Boarding,100,,68,46,
+1887,NM,"University of New Mexico, Santa Fe",50,,43,24,
+1887,NM,Acoma Day,,10,11,,9
+1887,NM,Acomita Day,,30,50,,29
+1887,NM,Isleta Day No 1,,40,59,,32
+1887,NM,Isleta Day No 2,,25,30,,13
+1887,NM,Jemez Day No 1,,40,60,,21
+1887,NM,Jemez Day No 2,,25,45,,21
+1887,NM,Laguna Day No 1,,50,42,,33
+1887,NM,Laguna Day No 2,,25,66,,23
+1887,NM,San Felipe Day,,25,30,,21
+1887,NM,San Juan Day,,40,40,,30
+1887,NM,Santo Domingo,,40,46,,40
+1887,NM,Taos Day,,50,43,,24
+1887,NM,Zuni Day,,41,80,,42
+1887,NC,"Cherokee Training, Swain county",40,,41,40,
+1887,NC,Big Cove Day,,40,46,,32
+1887,NC,Bird Town Day,,24,35,,21
+1887,NC,Cherokee Day,,40,37,,25
+1887,NC,Macedonia Day,,45,45,,28
+1887,NC,Robbinsville Day,,35,25,,17
+1887,OR,Grand Ronde Boarding,45,,60,55,
+1887,OR,Klamath Boarding,95,,95,85,
+1887,OR,Yainax Boarding,80,,83,70,
+1887,OR,Siletz Boarding,60,,73,67,
+1887,OR,Umatilla Boarding,75,,83,59,
+1887,OR,Warm Springs Boarding,50,,69,56,
+1887,OR,Sinemasho Boarding,80,,38,29,
+1887,OR,Chemawa: Salem Training,250,,205,185,
+1887,PA,Carlisle: Carlisle Training,500,,617,547,
+1887,PA,Martinsburgh: Juniata Institute,80,,67,63,
+1887,PA,Philadelphia: Lincoln Institution,200,,218,200,
+1887,UT,Uintah Valley Boarding,25,,33,15,
+1887,VA,Hampton: Normal and Agricultural Institute,150,,160,116,
+1887,WA,Colville Boys' Boarding,40,,33,25,
+1887,WA,Colville Girls' Boarding,50,,54,43,
+1887,WA,Coeur d'Alène Boys' Boarding,60,,51,44,
+1887,WA,Coeur d'Alène Girls Boarding,60,,44,41,
+1887,WA,Neah Bay Boarding,50,,58,53,
+1887,WA,Quillehute Day,,50,57,,44
+1887,WA,Chehalis Boarding,50,,49,42,
+1887,WA,Puyallup Boarding,75,,87,82,
+1887,WA,S'Kokomish Boarding,40,,50,42,
+1887,WA,Jamestown Day,,30,27,,16
+1887,WA,Quinaielt Boarding,30,,23,21,
+1887,WA,Queet's Village Day,,40,19,,19
+1887,WA,Tulalip Boarding,125,,128,103,
+1887,WA,Yakima Boarding,150,,124,99,
+1887,WI,Menomonee Boarding,85,,110,81,
+1887,WI,St. Joseph's boarding,130,,156,127,
+1887,WI,Cornelis Day,,36,21,,8
+1887,WI,Hobart Day,,120,120,,46
+1887,WI,Onedia East Day,,35,24,,13
+1887,WI,"Onedia West Day, No 1",,55,35,,19
+1887,WI,"Onedia West Day, No 2",,30,30,,13
+1887,WI,"Onedia West Day, No 3",,40,22,,8
+1887,WI,Stockbridge Day,,30,28,,8
+1887,WI,Bad River Day,,50,54,,25
+1887,WI,Fond du Lac Day,,35,30,,26
+1887,WI,Grand Portage Day,,20,20,,9
+1887,WI,"Lac Court Oreilles Day, No 1",,60,77,,47
+1887,WI,"Lac Court Oreilles Day, No 2",,24,41,,9
+1887,WI,Lac du Flambeau Day,,25,41,,13
+1887,WI,Pah-quay-ah-wong Day,,25,38,,13
+1887,WI,Vermillion Lake DAy,,40,67,,30
+1887,WI,Bayfels: Boarding,100,,100,51,
+1887,WI,Milwaukee: Good Shepherd Industrial,75,,75,72,
+1887,WY,Wind River Boarding,80,,122,81,
+1903,AZ,Colorado River Reservation: Colorado River Boarding,100,,120,114,
+1903,AZ,Fort Mohave training,200,,210,200,
+1903,AZ,Moqui (Hopi) boarding,120,,186,178,
+1903,AZ,Western Navajo boarding,100,,161,181,
+1903,AZ,Oraibi day,,75,180,,142
+1903,AZ,Polacco day,,35,47,,45
+1903,AZ,Second Mesa day,,102,97,,94
+1903,AZ,Truxton Canyon boarding,125,,172,150,
+1903,AZ,Havasupai boarding,50,,71,60,
+1903,AZ,Navajo Boarding,180,,218,182,
+1903,AZ,Little Water boarding,80,,118,90,
+1903,AZ,Phoenix training,700,,763,703,
+1903,AZ,Pima boarding,250,,275,250,
+1903,AZ,Gila Crossing day,,40,49,,45
+1903,AZ,Maricopa day,,45,39,,38
+1903,AZ,Salt River day,,44,40,,32
+1903,AZ,San Xavier Mission day,,125,116,,100
+1903,AZ,St. John's Mission day,,140,152,,118
+1903,AZ,Lehi day,,40,32,,29
+1903,AZ,Black Water day,,40,34,,31
+1903,AZ,Casa Blanca day,,44,47,,36
+1903,AZ,San Carlos Agency: San Carlos boarding,100,,132,112,
+1903,AZ,Fort Apache Reservation: Fort Apache boarding,70,,84,74,
+1903,AZ,Tucson boarding,150,,133,127,
+1903,AZ,Rice Station boarding,200,,217,210,
+1903,CA,Fort Yuma: Yuma boarding,180,,137,129,
+1903,CA,Hupa Valley Reservation:Hupa Valley boarding,160,,133,114,
+1903,CA,Agua Caliente day,,28,20,,11
+1903,CA,Capitan Grande day,,30,13,,7
+1903,CA,Coahuila day,,24,15,,10
+1903,CA,La Jolla day,,30,23,,14
+1903,CA,Martinez day,,28,21,,14
+1903,CA,Mesa grande day,,24,24,,10
+1903,CA,Pechanga day,,32,26,,15
+1903,CA,Potrero day,,28,22,,10
+1903,CA,Rineon day,,25,28,,22
+1903,CA,Saboba day,,32,23,,17
+1903,CA,Tule River day,,34,24,,9
+1903,CA,Perris training,100,,112,107,
+1903,CA,Greenville training,90,,84,75,
+1903,CA,Fort Bidwell training,100,,53,89,
+1903,CA,Big Pine day,,30,36,,19
+1903,CA,Bishop day,,60,53,,35
+1903,CA,Independence day,,28,21,,14
+1903,CA,Manchester day,,40,20,,10
+1903,CA,Potter Valley day,,50,35,,23
+1903,CA,Ukiah day,,24,22,,9
+1903,CA,Upper Lake day,,30,19,,11
+1903,CA,Round Valley Reservation: Round Valley boarding,125,,117,108,
+1903,CA,San Diego Industrial boarding,150,,90,86,
+1903,CA,Banning: St. Boniface's boarding,150,,148,121,
+1903,CA,Kelseyville: St. Turibius day,,20,10,,6
+1903,CA,Riverside training,300,,389,337,
+1903,CO,Grand Junction training,200,,166,147,
+1903,CO,Fort Lewis training,300,,136,118,
+1903,CO,Southern Ute Agency: Southern Ute boarding,70,,72,57,
+1903,ID,Fort Hall Agency: Fort Hall boarding,150,,167,159,
+1903,ID,Lehmi Reservation: Lehmi boarding,40,,78,68,
+1903,ID,Fort Lapawai boarding,150,,160,123,
+1903,ID,"Bingham County public day, district No 24",,,4,,4
+1903,Indian Territory,Quapaw Agency: Seneca training,120,,155,187,
+1903,IA,Sauk and Fox Agency: Sauk and Fox boarding,80,,91,72,
+1903,KS,Potawatomi Reservation: Potawatomi boarding,80,,101,79,
+1903,KS,Kickapoo boarding,60,,70,52,
+1903,KS,Great Nemaha day,,30,22,,11
+1903,KS,Sauk and Fox day,,33,23,,13
+1903,KS,Lawrence: Haskell Institute,700,,814,,762
+1903,MI,Baraga: Chippewa boarding,140,,14,14,
+1903,MI,Bay Mills day,,50,29,,20
+1903,MI,Harbor Springs boarding,200,,109,104,
+1903,MI,"Isabella County public day, fractional district No 1",,,15,,6
+1903,MI,"Lapeer County public day, district No 9",,,4,,3
+1903,MI,Mount Pleasant training,300,,326,286,
+1903,MN,Morris training,160,,202,163,
+1903,MN,Pipestone training,200,,143,132,
+1903,MN,White Earth Agency Boarding,134,,145,131,
+1903,MN,White Earth day,,40,40,,24
+1903,MN,Pine Point boarding,75,,81,64,
+1903,MN,Wild Rice River boarding,65,,93,77,9
+1903,MN,St. Benedict's Orphan Mission boarding,150,,101,99,
+1903,MN,Bena boarding,40,,57,48,
+1903,MN,Case Lake boarding,40,,53,41,
+1903,MN,Cross Lake boarding,40,,60,42,
+1903,MN,Leech Lake Boarding,60,,85,76,
+1903,MN,Red Lake Boarding,100,,93,77,
+1903,MN,"St, Mary's Mission boarding, Red Lake Reservation",80,,71,62,
+1903,MN,Birch Cooley day,,36,34,,20
+1903,MT,Fort Shaw training,300,,335,294,
+1903,MT,Blackfeet Boarding,60,,69,54,
+1903,MT,Holy Family mission boarding,150,,58,62,
+1903,MT,Crow boarding,150,,169,167,
+1903,MT,Pryor Creek boarding,50,,59,57,
+1903,MT,St. Xavier's mission boarding,150,,68,64,
+1903,MT,Flathead boarding,45,,48,38,
+1903,MT,St. Ignatius Mission Boarding,400,,192,172,
+1903,MT,Fort Belknap boarding,130,,108,99,
+1903,MT,St. Paul's boarding,250,,88,86,
+1903,MT,Fort Peck boarding,200,,220,200,
+1903,MT,Wolf Point Mission boarding and day,30,,25,21,2
+1903,MT,Tongue River day,,32,28,,19
+1903,MT,St. Labre's Mission boarding,65,,56,53,
+1903,NE,Omaha Boarding,54,,87,74,
+1903,NE,Winnebago Boarding,90,,105,91,
+1903,NE,"Thurston County Public day, district No 1",,,26,,12
+1903,NE,"Thurston County Public day, district No 14",,,13,,8
+1903,NE,"Thurston County Public day, district No 16",,,8,,2
+1903,NE,"Thurston County Public day, district No 17",,,21,,8
+1903,NE,"Thurston County Public day, district No 18",,,14,,8
+1903,NE,"Knox county public day, district No 36",,,22,,12
+1903,NE,Santee Boarding,80,,103,74,
+1903,NE,Springfield Boarding,55,,69,60,
+1903,NE,Ponca day,,35,21,,13
+1903,NE,Santee Normal Training,125,,88,77,8
+1903,NE,Genoa: Genoa Training,325,,320,310,
+1903,NV,Nevada training,80,,64,58,
+1903,NV,Carson training,200,,235,219,
+1903,NV,Walker River Day,,36,29,,23
+1903,NV,Western Shoshone Reservation boarding,60,,57,53,
+1903,NM,Albuquerque training,300,,380,286,
+1903,NM,Mescalero Boarding,110,,112,100,
+1903,NM,Acoma Day,,50,33,,15
+1903,NM,Isleta,,50,64,,37
+1903,NM,Laguna,,40,39,,29
+1903,NM,Pahuate,,30,37,,23
+1903,NM,Paraje,,20,22,,18
+1903,NM,San Felipe Day,,70,63,,41
+1903,NM,Santa Ana,,18,19,,16
+1903,NM,Seoma,,40,30,,24
+1903,NM,Zuni boarding,50,,101,49,
+1903,NM,Cochiti,,30,24,,16
+1903,NM,Jemez,,35,49,,30
+1903,NM,Nambe,,29,23,,16
+1903,NM,Picuris,,16,13,,9
+1903,NM,San Ildefonse,,21,22,,18
+1903,NM,San Juan Day,,32,28,,19
+1903,NM,Santa Clara,,30,52,,34
+1903,NM,Santo Domingo,,30,89,,15
+1903,NM,Sia,,30,24,,19
+1903,NM,Taos Day,,32,59,,40
+1903,NM,Tesuque,,20,4,,4
+1903,NM,Santa Fe: training,300,,365,333,
+1903,NM,Bernalillo: Boarding,125,,71,67,
+1903,NM,Santa Fe: St. Catharine's boarding,150,,153,145,
+1903,NM,Jicarilla day,,25,26,,21
+1903,NC,Eastern Cherokee Reservation: Cherokee boarding,150,,158,140,
+1903,ND,Fort Totten boarding,350,,355,317,
+1903,ND,Turtle Mountain boarding,150,,96,79,
+1903,ND,"Turtle Mountain day, No 2",,40,50,,22
+1903,ND,"Turtle Mountain day, No 3",,40,51,,24
+1903,ND,Waantan day,,32,37,,22
+1903,ND,Fort Berthold boarding,80,,104,84,
+1903,ND,Fort Berthold No 1 day,,40,25,,22
+1903,ND,Fort Berthold No 2 day,,50,20,,15
+1903,ND,Fort Berthold No 3 day,,46,34,,30
+1903,ND,Mission Home boarding,45,,29,26,
+1903,ND,Standing Rock boarding,136,,175,143,
+1903,ND,Agricultural boarding,100,,136,129,
+1903,ND,Grand River boarding,150,,141,126,
+1903,ND,Cannon Ball day,,40,54,,45
+1903,ND,Bullhead day,,30,30,,25
+1903,ND,Porcupine day,,40,32,,26
+1903,ND,Standing Rock No 1 day,,30,24,,21
+1903,ND,Standing Rock No 2 day,,30,21,,17
+1903,ND,St. Elizabeth Mission boarding,62,,66,60,
+1903,OK,Arapaho boarding,150,,130,121,
+1903,OK,Cheyenne boarding,140,,162,144,
+1903,OK,Cantonment boarding,120,,100,88,
+1903,OK,Red Moon boarding,75,,39,34,
+1903,OK,Seger boarding,150,,134,118,
+1903,OK,Chilocco: Training,600,,665,624,
+1903,OK,Fort Sill boarding,150,,175,162,
+1903,OK,Rainy Mountain boarding,100,,114,101,
+1903,OK,Riverside boarding,150,,167,161,
+1903,OK,Cache Creek boarding,50,,49,47,
+1903,OK,Mary Gregory Memorial boarding,60,,26,19,
+1903,OK,Methvin boarding,80,,44,37,
+1903,OK,St. Patrick's boarding,125,,65,61,
+1903,OK,Kaw boarding,44,,43,37,
+1903,OK,Osage boarding,180,,164,144,
+1903,OK,St. John's boarding,150,,41,39,
+1903,OK,St. Louis boarding,125,,80,64,
+1903,OK,Ponca boarding,100,,111,103,
+1903,OK,Oto boarding,75,,72,72,
+1903,OK,Tonkawa day,,24,12,,9
+1903,OK,Pawnee boarding,130,,150,145,
+1903,OK,Sauk and Fox Agency: Sauk and Fox boarding,100,,110,100,
+1903,OK,Shawnee boarding,100,,105,95,
+1903,OK,St. Mary's Academy,50,,54,47,
+1903,OK,St. Benedict Academy,50,,42,33,
+1903,OR,Grande Ronde boarding,90,,83,72,
+1903,OR,Klamath boarding,110,,117,100,
+1903,OR,Yainax boarding,90,,101,96,
+1903,OR,Siletz boarding,100,,54,45,
+1903,OR,Umatilla boarding,125,,113,83,
+1903,OR,Kate Drexel boarding,150,,76,60,
+1903,OR,Warm Springs boarding,150,,112,95,
+1903,OR,Chemawa: Salem training,550,,670,613,
+1903,OR,"Coos County: Public day, district No 60",,,6,,2
+1903,PA,Carlisle: Training,950,,1074,963,
+1903,PA,Philadelphia: Lincoln Institution,70,,53,40,
+1903,SD,Crow Creek boarding,140,,122,94,
+1903,SD,Grace boarding,41,,24,20,
+1903,SD,Immediate Conception boarding,75,,67,60,
+1903,SD,Cheyenne River boarding,125,,143,134,
+1903,SD,Cheyenne River No 5 day,,25,25,,22
+1903,SD,Cheyenne River No 7 day,,25,29,,25
+1903,SD,Cheyenne River No 8 day,,25,30,,28
+1903,SD,Oahe boarding,50,,31,26,
+1903,SD,Plum Creek boarding,10,,10,10,
+1903,SD,Lower Brulé boarding,140,,95,92,
+1903,SD,Pine Ridge boarding,220,,242,214,
+1903,SD,Holy rosary boarding,200,,187,174,
+1903,SD,Pine Ridge No 2 day,,35,21,,17
+1903,SD,Pine Ridge No 3 day,,35,24,,18
+1903,SD,Pine Ridge No 4 day,,35,26,,23
+1903,SD,Pine Ridge No 5 day,,35,37,,31
+1903,SD,Pine Ridge No 6 day,,35,28,,24
+1903,SD,Pine Ridge No 7 day,,35,47,,33
+1903,SD,Pine Ridge No 8 day,,35,24,,19
+1903,SD,Pine Ridge No 9 day,,35,36,,27
+1903,SD,Pine Ridge No 10 day,,35,32,,31
+1903,SD,Pine Ridge No 11 day,,35,35,,22
+1903,SD,Pine Ridge No 12 day,,35,20,,19
+1903,SD,Pine Ridge No 13 day,,35,24,,18
+1903,SD,Pine Ridge No 14 day,,35,22,,20
+1903,SD,Pine Ridge No 15 day,,35,23,,17
+1903,SD,Pine Ridge No 16 day,,35,29,,22
+1903,SD,Pine Ridge No 17 day,,35,23,,20
+1903,SD,Pine Ridge No 18 day,,35,29,,26
+1903,SD,Pine Ridge No 19 day,,35,25,,21
+1903,SD,Pine Ridge No 20 day,,35,30,,25
+1903,SD,Pine Ridge No 21 day,,35,25,,18
+1903,SD,Pine Ridge No 22 day,,35,23,,19
+1903,SD,Pine Ridge No 23 day,,35,23,,21
+1903,SD,Pine Ridge No 24 day,,35,27,,20
+1903,SD,Pine Ridge No 25 day,,35,27,,22
+1903,SD,Pine Ridge No 26 day,,35,26,,23
+1903,SD,Pine Ridge No 27 day,,35,35,,33
+1903,SD,Pine Ridge No 28 day,,35,28,,24
+1903,SD,Pine Ridge No 29 day,,35,26,,19
+1903,SD,Pine Ridge No 31 day,,35,18,,15
+1903,SD,Rosebud boarding,168,,155,143,
+1903,SD,St. Francis Mission boarding,250,,240,223,
+1903,SD,St. Mary's Mission boarding,55,,48,45,
+1903,SD,Black Pipe day,,25,31,,26
+1903,SD,Big White River day,,30,20,,16
+1903,SD,Bull Creek day,,30,23,,21
+1903,SD,Butte Creek day,,29,18,,17
+1903,SD,Corn Creek day,,23,31,,30
+1903,SD,Cut Meat Creek day,,28,29,,25
+1903,SD,He Dog's Camp day,,29,29,,24
+1903,SD,Ironwood Creek day,,30,32,,30
+1903,SD,Little Crow's Camp day,,28,15,,14
+1903,SD,Little White River day,,28,25,,24
+1903,SD,Lower Cut Meat Creek day,,28,17,,16
+1903,SD,Milk's Camp day,,30,29,,22
+1903,SD,Oak creek day,,30,27,,24
+1903,SD,Pine Creek day,,25,26,,21
+1903,SD,Red Leaf's Camp day,,23,24,,23
+1903,SD,Ring Thunder Camp day,,25,20,,18
+1903,SD,Spring Creek day,,29,40,,32
+1903,SD,Upper Cut Meat Creek day,,28,37,,32
+1903,SD,Upper Pine Creek day,,27,11,,11
+1903,SD,White Thunder Creek day,,27,22,,20
+1903,SD,Whirlwind Soldier's Camp day,,31,26,,24
+1903,SD,Sisseton Agency: Sisseton boarding,100,,139,119,
+1903,SD,Good Will Mission boarding,90,,59,51,
+1903,SD,Yankton Reservation: Yankton boarding,150,,171,153,
+1903,SD,Flandreau: Riggs Institute,350,,399,364,
+1903,SD,Pierre: Training,150,,158,139,
+1903,SD,Chamberlain: Training,125,,162,129,
+1903,SD,Rapid City: Training,125,,119,116,
+1903,SD,"Stanley County: Public day, independent district",,,18,,11
+1903,UT,Uintah boarding,85,,106,91,
+1903,UT,Ouray boarding,80,,68,52,
+1903,UT,St. George: Southern Utah boarding,35,,34,28,
+1903,VA,Hampton: Normal and Agricultural Institute,160,,101,88,
+1903,WA,Colville boarding,200,,234,209,
+1903,WA,Colville Mission boarding,80,,69,55,
+1903,WA,Coeur d'Alene Reservation: De Smet Mission boarding,150,,80,67,
+1903,WA,Neah Bay day,,56,57,,33
+1903,WA,Quilleute day,,60,47,,30
+1903,WA,Puyallup boarding,125,,116,82,
+1903,WA,Chehalis day,,40,20,,10
+1903,WA,Quinaielt day,,30,28,,20
+1903,WA,Skokomish day,,40,38,,14
+1903,WA,Jamestown day,,30,24,,11
+1903,WA,Port Gamble day,,26,22,,10
+1903,WA,St. George's boarding,80,,73,50,
+1903,WA,Lummi day,,32,34,,15
+1903,WA,Swinomish day,,50,56,,50
+1903,WA,Fort Madison day,,30,54,,25
+1903,WA,Yakima Reservation: Yakima boarding,150,,137,91,
+1903,WI,Green Bay boarding (Menomonee),140,,142,117,
+1903,WI,St. Joseph's boarding,170,,187,159,
+1903,WI,Stockbridge day,,40,42,,
+1903,WI,Lutheran Mission day,,40,11,,
+1903,WI,Oneida boarding,200,,202,190,
+1903,WI,"Oneida day, No 1",,32,34,,20
+1903,WI,Bayfield boarding,50,,59,38,
+1903,WI,"St. Mary's boarding, Bad River Reservation",100,,90,90,
+1903,WI,Lac du Flambeau boarding,150,,173,160,
+1903,WI,Fond du Lac day,,30,33,,21
+1903,WI,Grand Portage day,,30,27,,21
+1903,WI,Lac Court Oreilles day,,58,57,,30
+1903,WI,Nett Lake day,,16,21,,12
+1903,WI,Normantown day,,42,23,,8
+1903,WI,Odanah day,,93,110,,70
+1903,WI,Redcliff day,,50,32,,24
+1903,WI,Vermilion Lake boarding,150,,76,60,
+1903,WI,Heyward boarding,150,,179,165,
+1903,WI,Wittenberg boarding,100,,113,104,
+1903,WI,Tomah boarding,225,,258,230,
+1903,WI,"Ashland County: Public day, district No. 1",,,13,,5
+1903,WY,Wind River boarding,180,,153,145,
+1903,WY,St. Stephen's boarding,90,,71,63,
+1903,WY,Shoshone Mission boarding,20,,16,14,
+1903,WY,Big Wind River day,,21,19,,17
